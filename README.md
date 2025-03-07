@@ -1,1 +1,1 @@
-# wix
+npm install -g @wix/cli
